@@ -1,0 +1,30 @@
+{
+  "name": "validating-data-received-via-the-telegram-mini-app",
+  "version": "1.0.0",
+  "description": "Validating data received via the Telegram Mini App",
+  "private": true,
+  "author": {
+    "name": "Aleksandr Ivannikov",
+    "email": "info@ivannikov.pro",
+    "url": "https://ivannikov.pro"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/an-ivannikov/validating-data-received-via-the-telegram-mini-app#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/an-ivannikov/validating-data-received-via-the-telegram-mini-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/an-ivannikov/validating-data-received-via-the-telegram-mini-app/issues",
+    "email": "info@ivannikov.pro"
+  },
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
